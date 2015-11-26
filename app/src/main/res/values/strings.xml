@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">GPSSuite</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="PREFS_NAME">GpsSuitePref</string>
+    <string name="FULL_MOON">Full</string>
+    <string name="NEW_MOON">New</string>
+    <string name="Q1_MOON">1st Quarter</string>
+    <string name="Q3_MOON">3rd Quarter</string>
+    <string name="fix">Fix</string>
+    <string name="accuracy">Accuracy(%1$s)</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="curlocation">Current Location</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunmax">SunMax</string>
+    <string name="moonrise">Moon Rise</string>
+    <string name="moonset">Moon Set</string>
+    <string name="moonphase">Moon Phase</string>
+    <string name="speed">Speed(%1$s)</string>
+    <string name="altitude">Altitude(%1$s)</string>
+    <string name="maxaltitude">Max Altitude(%1$s)</string>
+    <string name="avgspeed">Avg Speed(%1$s)</string>
+    <string name="maxspeed">Max Speed(%1$s)</string>
+    <string name="distance">Distance(%1$s)</string>
+    <string name="heading">Heading</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save...</string>
+    <string name="manage">Manage Location</string>
+    <string name="saveplace">Save Place</string>
+    <string name="name">Name</string>
+    <string name="newplace">New Place</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="N">N</string>
+    <string name="NE">NE</string>
+    <string name="E">E</string>
+    <string name="SE">SE</string>
+    <string name="S">S</string>
+    <string name="SW">SW</string>
+    <string name="W">W</string>
+    <string name="NW">NW</string>
+    <string name="whereami">Where Am I?</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_languages">Languages</string>
+    <string name="pref_title_languages">Default Language</string>
+    <string-array name="pref_languages_list_titles">
+        <item>English</item>
+        <item>Português</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>简体中文</item>
+    </string-array>
+    <string-array name="pref_languages_list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_units">Units</string>
+
+    <string name="pref_title_units">Unit System</string>
+    <string-array name="pref_unit_system_titles">
+        <item>International</item>
+        <item>Imperial</item>
+    </string-array>
+    <string-array name="pref_unit_system_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

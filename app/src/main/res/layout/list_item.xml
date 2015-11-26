@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/textPrn"
+        android:layout_weight="2"
+        android:textSize="@dimen/small_font_size"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/textFlag"
+        android:layout_weight="2"
+        android:textSize="@dimen/small_font_size"/>
+
+    <br.com.mfdonadeli.gpssuite.BarDrawView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/barSnr"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/textElevation"
+        android:layout_weight="2"
+        android:textSize="@dimen/small_font_size"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/textAzimuth"
+        android:layout_weight="2"
+        android:textSize="@dimen/small_font_size"/>
+
+</LinearLayout>

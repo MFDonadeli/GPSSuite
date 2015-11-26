@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">GPSSuite</string>
+    <string name="hello_world">Bonjour le monde!</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="PREFS_NAME">GpsSuitePref</string>
+    <string name="FULL_MOON">Pleine</string>
+    <string name="NEW_MOON">Nouvelle</string>
+    <string name="Q1_MOON">Premier Quartier</string>
+    <string name="Q3_MOON">Dernier Quartier</string>
+    <string name="fix">Fix</string>
+    <string name="accuracy">Précision(%1$s)</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="curlocation">Localisation actuelle</string>
+    <string name="sunrise">Lever du Soleil</string>
+    <string name="sunset">Coucher du Soleil</string>
+    <string name="sunmax">Heure locale</string>
+    <string name="moonrise">Lever de la lune</string>
+    <string name="moonset">Coucher de la lune</string>
+    <string name="moonphase">Phase de lune</string>
+    <string name="speed">Vitesse(%1$s)</string>
+    <string name="altitude">Altitude(%1$s)</string>
+    <string name="maxaltitude">Altitude Max(%1$s)</string>
+    <string name="avgspeed">Vitesse moyenne(%1$s)</string>
+    <string name="maxspeed">Vitesse Max(%1$s)</string>
+    <string name="distance">Distance(%1$s)</string>
+    <string name="heading">Heading</string>
+    <string name="start">Démarrer</string>
+    <string name="stop">Arrêter</string>
+    <string name="reset">Effacer</string>
+    <string name="save">Enregistrer...</string>
+    <string name="manage">Gérer Localisation</string>
+    <string name="saveplace">Enregistrer Lieu</string>
+    <string name="name">Nom</string>
+    <string name="newplace">Nouveau Lieu</string>
+    <string name="ok">D\'accord</string>
+    <string name="cancel">Annuler</string>
+    <string name="close">Fermer</string>
+    <string name="delete">Effacer</string>
+    <string name="N">N</string>
+    <string name="NE">NE</string>
+    <string name="E">E</string>
+    <string name="SE">SE</string>
+    <string name="S">S</string>
+    <string name="SW">SO</string>
+    <string name="W">O</string>
+    <string name="NW">NO</string>
+    <string name="whereami">Où suis-je?</string>
+
+    <!-- Example General settings -->
+    <string name="pref_header_languages">Langues</string>
+    <string name="pref_title_languages">Langage par défaut</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_units">Unités</string>
+
+    <string name="pref_title_units">Unités de mesure</string>
+    <string-array name="pref_unit_system_titles">
+        <item>International</item>
+        <item>Imperial</item>
+    </string-array>
+    <string-array name="pref_unit_system_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>
